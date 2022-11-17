@@ -10,14 +10,14 @@
 ## 文件
 > 见[Github仓库](https://github.com/Alephant6/nuist-graduation-projection)
 1. `posts` --> 笔记
-2. `public` --> 附件
+2. `public` --> 附件[目录](https://github.com/Alephant6/nuist-graduation-projection/tree/main/public/attachments)
 3. `Templates` --> 笔记模版
 
 ## 使用工具
 > 考虑到文件本地管理和分享同步
 
 1. [Github](https://github.com/)
-	-  托管文件仓库
+	- 托管文件仓库
 	- 托管图床
 	- [Obsidian publish解决方案](https://github.com/TuanManhCao/digital-garden)
 2. [Obsidian](https://obsidian.md/)
@@ -25,7 +25,7 @@
 	- 插件`Citation`连动Zotero
 	- 插件`Obsidian Git`自动同步Github仓库
 	- 插件`Image auto upload Plugin`连接PicGo
-	- 插件`KanBan`
+	- 插件`KanBan`规划管理任务
 3. [Vercel](https://vercel.com/)
 	- 部署网页[ale-graduation.vercel.app](https://ale-graduation.vercel.app/)
 	- 自动爬取Github仓库
