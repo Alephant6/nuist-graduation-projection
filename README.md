@@ -5,14 +5,17 @@
 ## 使用电脑打开效果最佳
 ![](https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202211171529520.png)
 1. 左边栏笔记陆目录
-2. 右边`Interactive Graph`网图，点击跳跃
+2. 右边`Interactive Graph`网图，点击节点跳至相应文件
 
 ## 文件
+> 见[Github仓库](https://github.com/Alephant6/nuist-graduation-projection)
 1. `posts` --> 笔记
 2. `public` --> 附件
 3. `Templates` --> 笔记模版
 
 ## 使用工具
+> 考虑到文件本地管理和分享同步
+
 1. [Github](https://github.com/)
 	-  托管文件仓库
 	- 托管图床
@@ -28,5 +31,6 @@
 	- 自动爬取Github仓库
 4. [Zotero](https://www.zotero.org/)
 	- 文献管理与阅读
+	- 同步不同设备批注
 5. [PicGo](https://picgo.github.io/PicGo-Doc/zh/guide/)
 	- 上传图片至Github图床
