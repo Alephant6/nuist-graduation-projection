@@ -10,3 +10,4 @@ author:  Alephant
 	2. 省级申报书
 2. 翻译一篇英文相关文献
 3. 毕业设计论文
+[[@ChiSanShiJianFuLiYeBianHuan2020]]
