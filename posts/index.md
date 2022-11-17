@@ -4,7 +4,7 @@
 
 ## 使用电脑打开效果最佳
 ![](https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202211171529520.png)
-1. 左边栏笔记陆目录
+1. 左边栏笔记目录
 2. 右边`Interactive Graph`网图，点击节点跳至相应文件
 
 ## 文件
@@ -34,3 +34,5 @@
 	- 同步不同设备批注
 5. [PicGo](https://picgo.github.io/PicGo-Doc/zh/guide/)
 	- 上传图片至Github图床
+6. [Pandoc](https://github.com/jgm/pandoc)
+	- 各类格式转化
