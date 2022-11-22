@@ -1,6 +1,6 @@
 # nuist-graduation-projection
 
-本人的nuist本科毕业设计，以Obsidian笔记形式发布在[ale-grad.vercel.app](https://ale-grad.vercel.app/)，仓库开源在[Github](https://github.com/Alephant6/nuist-graduation-projection)
+本人的nuist本科毕业设计，以Obsidian笔记形式发布在[ale-grad.vercel.app](https://ale-grad.vercel.app/)或者[grad.ale.cab](https://grad.ale.cab/)，仓库开源在[Github](https://github.com/Alephant6/nuist-graduation-projection)
 
 ## 使用电脑打开效果最佳
 ![](https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202211171529520.png)
