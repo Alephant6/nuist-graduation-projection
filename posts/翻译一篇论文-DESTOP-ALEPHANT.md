@@ -1,0 +1,49 @@
+---
+tags:  
+alias:  
+date:  2023-03-07 16:32:42 
+author:  Alephant
+---
+所有文件目录见[Github仓库/public/attachments](https://github.com/Alephant6/nuist-graduation-projection/tree/main/public/attachments)
+
+[[index]]
+
+翻译一篇10页左右的论文
+
+14页差不多，李炳照老师的论文，
+[[翻译论文_英文稿件_bingzhao2012.pdf]]
+
+[[翻译论文_DeepLzh_bingzhao2012.pdf]]
+
+[[翻译论文_强盛周.docx]]
+
+[[翻译论文_强盛周_公式.docx]]
+
+[[翻译论文_强盛周.pdf]]
+
+## 专业名词翻译
+- The ambiguity function (AF) 模糊函数
+- the linear canonical transform (LCT) 线性正则变换
+- the linear frequency modulated signals (LFM) 线性调频信号
+- Radon transtorm (RT)  Radon变换
+- Non-stationary signal  非稳态信号
+- signal processing community 信号处理界
+- the short-time Fourier transform (STFT) 短时傅里叶变换
+- the wavelet transform (WT)
+- the fractional Fourier transform (FRFT) 分数阶傅里叶变换
+- Fourier transform (FT) 傅里叶变换
+- a unified time-frequency transform 一个统一的时频变换
+- optics 光学
+- the sampling theories 采样理论
+- the eigenfunctions 特征函数
+- the convolution theorem 卷积定理
+- uniform or nonuniform samples 均匀与非均匀样本
+- efficient discrete and digital computation algorithm 有效的离散和数字计算算法
+- chirp operation  啁啾操作
+- the scaling operation  缩放操作
+- the uncertainty principles  不确定性原理
+- local transform  局部变换
+- operator 算子
+- the instantaneous autocorrelation function 瞬时自相关函数
+- the affine transform 仿射变换
+- Anti-derivative 不定积分

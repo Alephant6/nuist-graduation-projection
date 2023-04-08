@@ -1,0 +1,107 @@
+---
+tags:  
+alias:  
+date:  2022-11-17 18:04:46 
+author:  Alephant
+---
+
+[[index]]
+
+论文、获奖、大创、软著等
+## 11.22晚上版本
+- [[附件3.南京信息工程大学“优秀本科毕业论文（设计）支持计划”项目汇总表 -11.22.xlsx]]
+	- [github下载](https://github.com/Alephant6/nuist-graduation-projection/raw/main/public/attachments/%E9%99%84%E4%BB%B63.%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%AD%A6%E2%80%9C%E4%BC%98%E7%A7%80%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%EF%BC%88%E8%AE%BE%E8%AE%A1%EF%BC%89%E6%94%AF%E6%8C%81%E8%AE%A1%E5%88%92%E2%80%9D%E9%A1%B9%E7%9B%AE%E6%B1%87%E6%80%BB%E8%A1%A8%20-11.22.xlsx)
+
+![](https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202211222346268.png)
+- 标上序号
+-  4作以后的删掉
+- 论文信息应该写全，期刊名，期号，卷号，页码
+- SCI标中科院区、三高期刊
+
+## 在线查看或者看历史版本
+【腾讯文档】附件3.南京信息工程大学“优秀本科毕业论文（设计）支持计划”项目汇总表  
+![](file:///C:\Users\Alephant\AppData\Roaming\Tencent\QQ\Temp\[5UQ[BL(6~BS2JV6W}N6[%S.png)https://docs.qq.com/sheet/DWldaQ05penBGTE1a?tab=BB08J2
+
+# 强盛周
+> 详细见[notion页面](https://olifant.notion.site/996ff13e19b54c91a7cb139b68a7fb95)
+- https://olifantqiang.cn/
+- https://olifant.netlify.app
+
+## 填写格式参考
+- [[填写申报书]]
+- [[附件2.南京信息工程大学“优秀本科毕业论文（设计）支持计划”项目申报表.doc]]
+
+## 论文
+Instantaneous cross-correlation function type of WD based LFM signals analysis via output SNR inequality modeling
+Linear canonical Wigner distribution of noisy LFM signals via variance-SNR based inequalities system analysis
+Scaled Wigner distribution using fractional instantaneous autocorrelation
+Heisenberg’s uncertainty principle for N -dimensional fractional Fourier transform of complex-valued functions
+A Computationally Efficient Optimal Wigner Distribution in LCT Domains for Detecting Noisy LFM Signals
+Modulation instabilities in twin-core fibers with self-steepening effects
+Unique Parameters Selection Strategy of Linear Canonical Wigner Distribution via Multiobjective Optimization Modeling
+
+1
+2
+3
+6
+5
+4
+4
+
+sci
+sci
+sci
+sci
+sci
+sci
+sci
+
+IF查询参考：[Academic-accelerator](https://academic-accelerator.com/)中的Real-Time IF
+
+1.  S.-Z. Qiang _et al._, “Instantaneous cross-correlation function type of WD based LFM signals analysis via output SNR inequality modeling,” _EURASIP J. Adv. Signal Process._, vol. 2021, no. 1, p. 122, Dec. 2021, doi: [10.1186/s13634-021-00830-7](https://doi.org/10.1186/s13634-021-00830-7).（第一作者，已发表，Q2，IF：2.7）
+2.  Z.-C. Zhang, S.-Z. Qiang, X. Jiang, P.-Y. Han, X.-Y. Shi, and A.-Y. Wu, “Linear canonical Wigner distribution of noisy LFM signals via variance-SNR based inequalities system analysis,” _Optik_, vol. 237, p. 166712, Jul. 2021, doi: [10.1016/j.ijleo.2021.166712](https://doi.org/10.1016/j.ijleo.2021.166712). （第二作者，已发表，Q2，IF：4.8）
+3.  Z.-C. Zhang, X. Jiang, S.-Z. Qiang _et al._, “Scaled Wigner distribution using fractional instantaneous autocorrelation,” _Optik_, vol. 237, p. 166691, Jul. 2021, doi: [10.1016/j.ijleo.2021.166691](https://doi.org/10.1016/j.ijleo.2021.166691).（第三作者，已发表，Q2，IF：4.8）
+4.  Z.-C. Zhang _et al._, “Heisenberg’s uncertainty principle for N -dimensional fractional Fourier transform of complex-valued functions,” _Optik_, vol. 242, p. 167052, Sep. 2021, doi: [10.1016/j.ijleo.2021.167052](https://doi.org/10.1016/j.ijleo.2021.167052). （合著者，已发表，Q2，IF：4.8）
+5.  A.-Y. Wu _et al._, “A Computationally Efficient Optimal Wigner Distribution in LCT Domains for Detecting Noisy LFM Signals,” _Mathematical Problems in Engineering_, vol. 2022, pp. 1–11, Feb. 2022, doi: [10.1155/2022/2036285](https://doi.org/10.1155/2022/2036285). （合著者，已发表，Q2，IF：2.1）
+6.  T. Liu _et al._, “Modulation instabilities in twin-core fibers with self-steepening effects,” _Physics Letters A_, vol. 425, p. 127869, Feb. 2022, doi: [10.1016/j.physleta.2021.127869](https://doi.org/10.1016/j.physleta.2021.127869).（合著者，已发表，Q2，IF：2.9）
+7.  SHI Xiya, WU Anyang, SUN Yun, QIANG Shengzhou, JIANG Xian, HAN Puyu, CHEN Yunjie, ZHANG Zhichao. Unique Parameters Selection Strategy of Linear Canonical Wigner Distribution via Multiobjective Optimization Modeling[J]. _Chinese Journal of Electronics_ . doi: [10.1049/cje.2021.00.338](http://dx.doi.org/10.1049/cje.2021.00.338)（合著者，已发表，Q2，IF：2.3）
+8. XING X, LIN H, ZHAO F, 等. Local POI matching based on KNN and LightGBM Method[J]. 4. （合著者，已发表，EI）
+
+
+## 获奖
+1.  2021.05，南京信息工程大学第十五届数学建模三等奖；
+2.  2021.09，“高教社杯”全国大学生数学建模竞赛江苏赛区二等奖。
+3.  2021.06，第十八届五一数学建模竞赛江苏省三等奖；
+4.  2021.05，第十二届“北斗杯”全国青少年科技创新大赛江苏省二等奖；
+5.  2022.07，[kaggle比赛Foursquare - Location Matching](https://www.kaggle.com/competitions/foursquare-location-matching/overview) 铜牌 **Top 10% 103/1079**
+
+2021年高教杯全国大学生数学建模竞赛省二等奖
+五一数学建模竞赛省三等奖
+“北斗杯”全国青少年科技创新大赛省二等奖
+Foursquare - Location Matching铜牌
+
+
+## 大创
+无省级即以上大创指导经历
+
+## 软著
+跨平台文件管理系统
+基于ICFWD的雷达信号检测输出信噪比不等式系统
+非线性双模光纤的调制不稳定性平台
+
+1
+2
+2
+
+2021SR1724104
+2022SR0158828
+2022SR0181101
+
+1.  2021.11，强盛周，跨平台文件管理系统，2021SR1724104
+2.  2022.01，蒋贤，强盛周，基于ICFWD的雷达信号检测输出信噪比不等式系统，2022SR0158828
+3.  2022.01，荣金萍，强盛周，非线性双模光纤的调制不稳定性平台，2022SR0181101
+## 专利
+
+1.  2022.01，蒋贤，张志超，韩普宇，强盛周，一种基于ICFWD技术的雷达线性调频信号高效检测方法，发明专利，已受理，CN114460553
+
+## 拟申报毕业论文选题（项目）立项依据和研究内容

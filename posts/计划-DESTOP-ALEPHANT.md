@@ -1,0 +1,56 @@
+---
+tags:  
+alias:  
+date:  2022-11-17 14:16:05 
+author:  Alephant
+---
+[[index]]
+
+# 毕业要求
+1. 开题报告
+2. 任务书
+3. 毕业设计论文
+4. 翻译一篇英文相关文献
+
+## 毕业设计优秀团队
+1. 校级申报书
+2. 省级申报书
+
+## 参考文件
+### 通知和附件
+[学校官网通知](https://bulletin.nuist.edu.cn/2022/1116/c785a209168/page.psp)
+
+
+1. [[关于组织实施2023年度“优秀本科毕业设计（论文） 支持计划”的通知.docx]]
+     - [github下载](https://github.com/Alephant6/nuist-graduation-projection/raw/main/public/attachments/%E5%85%B3%E4%BA%8E%E7%BB%84%E7%BB%87%E5%AE%9E%E6%96%BD2023%E5%B9%B4%E5%BA%A6%E2%80%9C%E4%BC%98%E7%A7%80%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%EF%BC%88%E8%AE%BA%E6%96%87%EF%BC%89%20%E6%94%AF%E6%8C%81%E8%AE%A1%E5%88%92%E2%80%9D%E7%9A%84%E9%80%9A%E7%9F%A5.docx)
+2.  [[附件1.江苏省普通高等学校本科毕业设计（论文）评优评审标准.docx]]
+    -   [github下载](https://github.com/Alephant6/nuist-graduation-projection/raw/main/public/attachments/%E9%99%84%E4%BB%B61.%E6%B1%9F%E8%8B%8F%E7%9C%81%E6%99%AE%E9%80%9A%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%EF%BC%88%E8%AE%BA%E6%96%87%EF%BC%89%E8%AF%84%E4%BC%98%E8%AF%84%E5%AE%A1%E6%A0%87%E5%87%86.docx)
+3. [[附件2.南京信息工程大学“优秀本科毕业论文（设计）支持计划”项目申报表.doc]]
+     - [github下载](https://github.com/Alephant6/nuist-graduation-projection/raw/main/public/attachments/附件2.南京信息工程大学“优秀本科毕业论文（设计）支持计划”项目申报表.doc)
+4. [[附件2.南京信息工程大学“优秀本科毕业论文（设计）支持计划”项目申报表-来鹏2021.pdf]]
+   - [github下载](https://github.com/Alephant6/nuist-graduation-projection/raw/main/public/attachments/附件2.南京信息工程大学“优秀本科毕业论文（设计）支持计划”项目申报表-来鹏2021.pdf)
+5. [[附件3.南京信息工程大学“优秀本科毕业论文（设计）支持计划”项目汇总表.xlsx]]
+   - [github下载](https://github.com/Alephant6/nuist-graduation-projection/raw/main/public/attachments/附件3.南京信息工程大学“优秀本科毕业论文（设计）支持计划”项目汇总表.xlsx)
+
+### 任务书
+1. [[任务书刘潇奕.pdf]]
+     - [github下载](https://github.com/Alephant6/nuist-graduation-projection/raw/main/public/attachments/任务书刘潇奕.pdf)
+2. [[任务书张瑶康.docx]]
+     - [github下载](https://github.com/Alephant6/nuist-graduation-projection/raw/main/public/attachments/任务书张瑶康.docx)
+
+### 论文
+1. [[刘潇奕—论文定稿0511.pdf]]
+     - [github下载](https://github.com/Alephant6/nuist-graduation-projection/raw/main/public/attachments/刘潇奕—论文定稿0511.pdf)
+
+2. [[毕业论文定稿张瑶康0513.pdf]]
+     - [github下载](https://github.com/Alephant6/nuist-graduation-projection/raw/main/public/attachments/毕业论文定稿张瑶康0513.pdf)
+
+### 开题报告
+1. [[开题报告.pdf]]
+     - [github下载](https://github.com/Alephant6/nuist-graduation-projection/raw/main/public/attachments/开题报告.pdf)
+2. [[开题报告终稿.pdf]]
+     - [github下载](https://github.com/Alephant6/nuist-graduation-projection/raw/main/public/attachments/开题报告终稿.pdf)
+
+### 翻译
+1. [[翻译终稿.pdf]]
+     - [github下载](https://github.com/Alephant6/nuist-graduation-projection/raw/main/public/attachments/翻译终稿.pdf)
